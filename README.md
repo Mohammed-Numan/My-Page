@@ -1,2 +1,2 @@
-# my_page
+# My Page
 About Me
